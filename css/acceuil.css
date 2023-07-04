@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #000;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo p{
+    font-size: 20px;
+    color: #fff;
+    font-family: Helvetica Neue, 75 Bold";
+}
+.logo{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin: 1rem;
+}
+ul li a{
+    color: #fff;
+    font-size: 18px;
+    
+}
+nav ul{ 
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+i{
+    color: #fff;
+    
+}
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-right: 1rem;
+}
+.acceuil{
+    min-height: 100vh;
+}
+.acceuil h1{
+    text-align: center;
+    padding: 2rem;
+    font-family: Helvetica Neue, 75 Bold";
+}
+.acceuil img{
+    width: 90vw;
+    height: 30rem;
+    margin: 2rem;
+}
+.formation h1{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+span{
+    color: #FF7900;
+}
+.formation{
+    min-height: 100vh;
+}
+.image{
+    margin: 1rem;
+    width: 390px;
+    height: 370px;
+    box-shadow: 0 1px 1px #0000000a, 0 3px 3px #00000017;
+}
+.form:hover{
+    color: #FF7900;
+}
+.image P{
+    font-size: 20px;
+    font-family: 'Poppins';
+    margin: 1rem;
+}
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+.btn{
+    width: 160px;
+    height: 2rem;
+    background: #FF7900;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.btn a{
+    display: flex;
+    justify-content: center;
+   text-align: center;
+   line-height: 2rem;
+   color: #000;
+   font-family: 'Poppins';
+   font-size: 15px;
+}
+hr{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+footer{
+    padding: 1rem;
+}
