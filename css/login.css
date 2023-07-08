@@ -69,3 +69,11 @@ input{
     background: #FF7900;
     font-size: 18px;
 }
+hr{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+footer{
+    padding: 1rem;
+    text-align: center;
+}
