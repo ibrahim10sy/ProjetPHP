@@ -33,9 +33,6 @@ th {
     text-decoration: none;
 }
 
-.delete-link:hover {
-    text-decoration: underline;
-}
 .link{
     width: 160px;
     height: 2rem;
@@ -51,7 +48,7 @@ i{
    
         display: inline-block;
         margin: 20px;
-        color: #333;
+        color:  #FF7900;
         font-size: 24px;
   
 }
